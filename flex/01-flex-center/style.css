@@ -3,7 +3,11 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+/*Add flex properties to move box into the middle of both axes.*/
 
 .box {
   background: palevioletred;
